@@ -1,0 +1,71 @@
+body {
+    background-color: white;
+}
+.icon-bar {
+    width: 100%; /* Full-width */
+    background-color: black; /* Dark-grey background */
+    overflow: auto; /* Overflow due to float */
+    align-self: center;
+}
+
+.icon-bar a {
+    float: left; /* Float links side by side */
+    text-align: center; /* Center-align text */
+    width: 20%; /* Equal width (5 icons with 20% width each = 100%) */
+    padding: 12px 0; /* Some top and bottom padding */
+    transition: all 0.3s ease; /* Add transition for hover effects */
+    color: white; /* White text color */
+    font-size: 20px; /* Increased font size */
+}
+
+.about /*Editing About Section */
+{   margin-left: 800px;}
+
+.about:hover
+{   background-color: #00FF00 ; /* Add a hover color */
+ }    
+
+.icon-bar a:hover {
+    background-color: #00FF00 ; /* Add a hover color */
+
+}
+
+.active {
+    background-color: #00FF00 ; /* Add an active/current color */
+}
+
+img { 
+	display: block;
+	margin: 0 auto; 
+	height: 200px;
+    width: 200px;
+	}
+
+h1,p,h2,h3
+{	text-align: center;
+    font-size: 30px;}
+
+.div
+{	text-align: center;}
+
+.imgContainer
+{   float:left;
+    margin-right: 50px;
+    align-items: center;
+    align-self: center;
+text-align: center;}
+
+.first-img
+{
+    margin-left: 320px;
+}
+
+.middle-img
+{   margin-left: 220px;}
+
+.foot
+{
+    background-color: grey;
+    color: white;
+    text-align: center;
+}

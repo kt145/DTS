@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": "Lufthansa",
+    "picture": "images/lufthansa.png",
+    "seatsAvailable": 120,
+    "rate": 700,
+    "Departure": "New Delhi"
+  },
+  {
+    "id": 1,
+    "name": "SpiceJet",
+    "picture": "images/Spicejet.png",
+    "seatsAvailable": 90,
+    "rate": 300,
+    "Departure": "New Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Kingfisher",
+    "picture": "images/kingfish.png",
+    "seatsAvailable": 190,
+    "rate": 600,
+    "Departure": "New Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Emirates",
+    "picture": "images/emirates.png",
+    "seatsAvailable": 200,
+    "rate": 500,
+    "Departure": "New Delhi"
+  }
+]

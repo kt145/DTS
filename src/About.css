@@ -1,0 +1,100 @@
+
+#page1
+{
+	background-image: url('C:\Users\shivasurya\Desktop\RajasthanHacks\Shivansh\abc.jpg');
+}
+
+#page2
+{
+	background-color: black;
+	
+
+}
+#page3
+{
+	background-color: cyan;
+	
+	}
+
+.smooth
+{
+	text-align: center;
+}
+.icon-bar {
+    position: fixed;
+    width: 100%; /* Full-width */
+    background-color: black; /* Dark-grey background */
+    overflow: auto; /* Overflow due to float */
+    align-self: center;
+    
+    
+}
+
+.icon-bar a {
+    float: left; /* Float links side by side */
+    text-align: center; /* Center-align text */
+    width: 10%; /* Equal width (5 icons with 20% width each = 100%) */
+    padding: 12px 0; /* Some top and bottom padding */
+    transition: all 0.3s ease; /* Add transition for hover effects */
+    color: white; /* White text color */
+    font-size: 20px; /* Increased font size */
+
+}
+
+.imageclass
+{
+	margin-left: 60px;
+}
+
+.firsticon
+{
+	margin-left: 100px;
+}
+.secondicon
+{
+	margin-left: 200px;
+}
+.thirdicon
+{
+	margin-left: 200px;
+}
+
+.fourthicon
+{
+	margin-left: 200px;
+}
+.coin
+{
+	color: white
+}
+
+
+.imgContainer
+{	float:left;
+	margin-right: 50px;
+	align-items: center;
+	align-self: center;
+	text-align: center;}
+
+.first-img
+{
+	margin-left: 400px;
+}
+
+.centered
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+h2
+{
+	color: white;
+}
+.foot
+{
+    background-color: grey;
+    color: white;
+    text-align: center;
+}

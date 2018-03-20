@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Maurya",
+    "picture": "images/62-tierra-atacama-boutique-hotel-and-spa-WBTOPHOTELS0505.jpg",
+    "rate": 3,
+    "roomsAvailable": 9,
+    "location": "Delhi"
+  },
+  {
+    "id": 1,
+    "name": "Hilton",
+    "picture": "images/1.jpeg",
+    "rate": 33,
+    "roomsAvailable": 9,
+    "location": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Raddison",
+    "picture": "images/2.jpeg",
+    "rate": 3,
+    "roomsAvailable": 9,
+    "location": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Piccadily",
+    "picture": "images/3.jpeg",
+    "rate": 3,
+    "roomsAvailable": 9,
+    "location": "Delhi"
+  },
+  {
+    "id": 4,
+    "name": "Taj",
+    "picture": "images/4.jpeg",
+    "rate": 3,
+    "roomsAvailable": 9,
+    "location": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Sanjay Palace",
+    "picture": "images/5.jpeg",
+    "rate": 3,
+    "roomsAvailable": 9,
+    "location": "Delhi"
+  },
+  {
+    "id": 6,
+    "name": "Hotel Abhiraja",
+    "picture": "images/6.jpeg",
+    "rate": 3,
+    "roomsAvailable": 9,
+    "location": "Delhi"
+  }
+  ]
